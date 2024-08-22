@@ -1,4 +1,19 @@
-To replicate the published results easily, you will need a Linux or similar system. Windows users are recommended to use WSL. Simulation and analysis are possible in any system, but will require a little more footwork to replicate the work the bash scripts (steps 3-4 below) do. Luckily, the scripts are very simple (go look), and are easily replaced with some copy-paste drudgery. If that's not for you, follow these steps:
+# To recreate the figures
+wihtout running any simulations, or to play around with our data, follow these steps:
+
+1. Clone this repository
+2. Set up a python environment with the dependencies listed in `requirements.txt`, e.g.:
+
+		python -m venv .env
+		pip install -r requirements.txt
+
+3. Download the abridged data from https://doi.org/10.6084/m9.figshare.26796061 and unzip it as a `results/` subdirectory
+4. Run all jupyter notebooks to generate the main and supplementary figures.
+
+
+
+# To replicate the published results without data,
+you will need a Linux or similar system. Windows users are recommended to use WSL. Simulation and analysis are possible in any system, but will require a little more footwork to replicate the work the bash scripts (steps 3-4 below) do. Luckily, the scripts are very simple (go look), and are easily replaced with some copy-paste drudgery. If that's not for you, follow these steps:
 
 1. Clone this repository
 
