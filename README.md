@@ -12,8 +12,8 @@ wihtout running any simulations, or to play around with our data, follow these s
 
 
 
-# To replicate the published results without data,
-by running new simulations, you will need a Linux or similar system. Windows users are recommended to use WSL. Simulation and analysis are possible in any system, but will require a little more footwork to replicate the work the bash scripts (steps 3-4 below) do. Luckily, the scripts are very simple (go look), and are easily replaced with some copy-paste drudgery. If that's not for you, follow these steps:
+# To replicate the published results without data
+To run new simulations, I recommend using a Linux or similar system. Windows users are recommended to use WSL. Simulation and analysis are possible in any system, but will require a little more footwork to replicate the work the bash scripts (steps 3-4 below) do. Luckily, the scripts are very simple (go look), and are easily replaced with some copy-paste drudgery. If that's not for you, follow these steps:
 
 1. Clone this repository
 
