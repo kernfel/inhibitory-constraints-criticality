@@ -1,3 +1,6 @@
+# About
+This repository holds the preprint and code for *Kern, Date, Chao, 2024: Effects of Spatial Constraints of Inhibitory Connectivity on the Dynamical Development of Criticality in Spiking Networks*.
+
 # To recreate the figures
 wihtout running any simulations, or to play around with our data, follow these steps:
 
